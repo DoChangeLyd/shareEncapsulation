@@ -1,0 +1,2 @@
+# shareEncapsulation
+My share encapsulation
